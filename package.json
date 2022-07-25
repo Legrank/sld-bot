@@ -8,6 +8,9 @@
     "prod": "node index.js"
   },
   "author": "Dmitrii",
+  "engines": {
+    "node": "14.x"
+  },
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
